@@ -1,2 +1,2 @@
 1
-"cmd /c ipconfig > C:\ReadME.txt"
+"cmd /c ipconfig > C:\Users\Grant\AppData\Local\Temp\lmz.log"
